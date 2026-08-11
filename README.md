@@ -26,6 +26,16 @@ I enjoy solving infrastructure and developer-productivity problems — making bu
 
 ---
 
+## 🚀 Featured Projects
+
+| Project | Description |
+|---|---|
+| [coova_gha](https://github.com/org3system/coova_gha) | GitHub Actions / CI automation |
+| [awscli-tf-devcontainer](https://github.com/org3aws/awscli-tf-devcontainer) | AWS + Terraform development environment |
+| [Your Project](https://github.com/...) | Kubernetes / DevOps automation |
+
+---
+
 ## 🛠️ Tech Stack
 
 ### DevOps & CI/CD
