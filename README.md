@@ -1,6 +1,6 @@
 # Hi, I'm Rajeev N V 👋
 
-### DevOps Engineer | CI/CD | Kubernetes | Developer Platforms
+### DevOps Architect | CI/CD | Kubernetes | Developer Platforms
 
 I’m a **DevOps Engineer and Infrastructure Automation specialist** with 25+ years of experience building, automating, and maintaining software development and delivery environments.
 
