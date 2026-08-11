@@ -4,7 +4,7 @@
 
 I’m a **DevOps Engineer and Infrastructure Automation specialist** with 25+ years of experience building, automating, and maintaining software development and delivery environments.
 
-My background spans **DevOps, CI/CD, Linux systems, cloud infrastructure, containers, Kubernetes, developer environments, and release engineering**, with extensive experience working on large-scale Network Management Systems.
+My background spans **DevOps, CI/CD, Linux systems, cloud infrastructure, containers, Kubernetes, developer environments, and release engineering**, with extensive experience working on large-scale[...]
 
 I enjoy solving infrastructure and developer-productivity problems — making builds faster, deployments more reliable, and development environments easier to reproduce.
 
@@ -30,7 +30,7 @@ I enjoy solving infrastructure and developer-productivity problems — making bu
 
 | Project | Description |
 |---|---|
-| [coova_gha](https://github.com/org3system/coova_gha) | GitHub Actions / CI automation |
+| [coova_aws_gha](https://github.com/org3system/coova_aws_gha) | GitHub Actions / CI automation |
 | [awscli-tf-devcontainer](https://github.com/org3aws/awscli-tf-devcontainer) | AWS + Terraform development environment |
 | [Your Project](https://github.com/...) | Kubernetes / DevOps automation |
 
