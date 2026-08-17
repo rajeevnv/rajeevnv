@@ -32,7 +32,7 @@ I enjoy solving infrastructure and developer-productivity problems — making bu
 |---|---|
 | [coova_gha](https://github.com/org3system/coova_gha) | GitHub Actions / CI automation |
 | [awscli-tf-devcontainer](https://github.com/org3aws/awscli-tf-devcontainer) | AWS + Terraform development environment |
-| [Your Project](https://github.com/org3system/coova_aws_gha) | Kubernetes / DevOps automation |
+| [coova_aws_gha](https://github.com/org3system/coova_aws_gha) | Build CoovaChilli 1.8 RPM on CentOS 6 via AWS ECS (Fargate) using Terraform |
 
 ---
 
